@@ -1,0 +1,19 @@
+{
+  "version": "0.0.0",
+  "name": "dungeon-master",
+  "author": "shixtan",
+  "license": "MIT",
+  "repository": "shixtan/DM",
+  "dependencies": {
+    "browserify": "*",
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-livereload": "*",
+    "gulp-rsync": "*",
+    "gulp-util": "*",
+    "phaser": "*",
+    "synaptic": "^1.0.1",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  }
+}
